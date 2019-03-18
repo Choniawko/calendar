@@ -1,0 +1,17 @@
+.day {
+  width: 30px;
+  display: inline-flex;
+}
+
+.week {
+  flex-direction: row;
+}
+
+.month {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  text-align: center;
+}
